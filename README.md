@@ -8,5 +8,5 @@ Também buscar dados da rede e integrar dados persistentes no banco de dados por
 </br>
 
 <p align="center">
-<img src="/previews/preview.gif" align="right" width="32%"/>
+<img src="/previews/preview.gif" width="32%"/>
 </p>
